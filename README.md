@@ -1,2 +1,2 @@
 # hello-world
-Just another one!
+Just saying "HI" to everyone.
